@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-dělat
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ    |
+| ----------------------- | --- | ----- |
+| sloveso                 |     | dělat |
+| podstatné jméno slovesa |     |       |
+| podstatné jméno         |     |       |
+| přídavné jméno          |     |       |

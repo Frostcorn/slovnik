@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-chtít
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ    |
+| ----------------------- | --- | ----- |
+| sloveso                 |     | chtít |
+| podstatné jméno slovesa |     |       |
+| podstatné jméno         |     |       |
+| přídavné jméno          |     |       |

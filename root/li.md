@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-mít
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ  |
+| ----------------------- | --- | --- |
+| sloveso                 |     | mít |
+| podstatné jméno slovesa |     |     |
+| podstatné jméno         |     |     |
+| přídavné jméno          |     |     |

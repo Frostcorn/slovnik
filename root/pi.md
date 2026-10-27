@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-umět (prakticky)
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ               |
+| ----------------------- | --- | ---------------- |
+| sloveso                 |     | umět (prakticky) |
+| podstatné jméno slovesa |     |                  |
+| podstatné jméno         |     |                  |
+| přídavné jméno          |     |                  |

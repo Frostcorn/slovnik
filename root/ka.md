@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-moci
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ   |
+| ----------------------- | --- | ---- |
+| sloveso                 |     | moci |
+| podstatné jméno slovesa |     |      |
+| podstatné jméno         |     |      |
+| přídavné jméno          |     |      |

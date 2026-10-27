@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-milovat
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ      |
+| ----------------------- | --- | ------- |
+| sloveso                 |     | milovat |
+| podstatné jméno slovesa |     |         |
+| podstatné jméno         |     |         |
+| přídavné jméno          |     |         |

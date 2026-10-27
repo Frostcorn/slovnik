@@ -16,10 +16,4 @@ větve:
   - "[[po]]"
   - "[[pa]]"
 ---
-Zde ze nachází překlad do češtiny.
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+Zde ze nachází tabulka s překladem do češtiny.

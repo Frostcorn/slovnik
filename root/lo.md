@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-existovat/nacházet se
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ                    |
+| ----------------------- | --- | --------------------- |
+| sloveso                 |     | existovat/nacházet se |
+| podstatné jméno slovesa |     |                       |
+| podstatné jméno         |     |                       |
+| přídavné jméno          |     |                       |

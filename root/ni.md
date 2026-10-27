@@ -3,11 +3,10 @@ popis:
 větve:
   -
 ---
-žít
 
-| slovní druh             | překlad |
-| ----------------------- | ------- |
-| sloveso                 |         |
-| podstatné jméno slovesa |         |
-| podstatné jméno         |         |
-| přídavné jméno          |         |
+| slovní druh             | QR  | CZ  |
+| ----------------------- | --- | --- |
+| sloveso                 |     | žít |
+| podstatné jméno slovesa |     |     |
+| podstatné jméno         |     |     |
+| přídavné jméno          |     |     |
