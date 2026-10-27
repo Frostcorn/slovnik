@@ -13,11 +13,11 @@ větve:
 
 #### Podstatná jména:
 
-| QR   | CZ          |
-| ---- | ----------- |
-| koka | chtíč       |
-| koda | přání/touha |
-| kopa | potřeba     |
+| QR   | CZ                 |
+| ---- | ------------------ |
+| koka | chtíč (nesexuálně) |
+| koda | přání/touha        |
+| kopa | potřeba            |
 #### Přídavná jména:
 
 | QR   | CZ       |
