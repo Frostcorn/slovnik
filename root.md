@@ -1,5 +1,4 @@
 ---
-popis: Toto je kořenový uzel tohoto slovníku Qorištiny.
 větve:
   - "[[lo]]"
   - "[[la]]"
@@ -16,4 +15,5 @@ větve:
   - "[[po]]"
   - "[[pa]]"
 ---
-Zde ze nachází tabulka s překladem do češtiny.
+Toto je kořenový uzel tohoto slovníku Qorištiny.
+Zde se bude nacházet tabulka s překladem do češtiny.
