@@ -34,7 +34,6 @@ větve:
 | korpa | potřebování |
 #### Přídavná jména odvozená od slovesa:
 
-
 | QR    | CZ          |
 | ----- | ----------- |
 | korku | chtějící    |
