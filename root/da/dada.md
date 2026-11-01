@@ -1,6 +1,6 @@
 ---
 větve:
-  -
+  - "[[dadada]]"
 ---
 #### Slovesa:
 
@@ -12,18 +12,18 @@ větve:
 
 #### Podstatná jména:
 
-| QR   | CZ  |
-| ---- | --- |
+| QR     | CZ  |
+| ------ | --- |
 | dadaka |     |
 | dadada |     |
 | dadapa |     |
 #### Přídavná jména:
 
-| QR   | CZ  |
-| ---- | --- |
-| dadaku |     |
-| dadadu |     |
-| dadapu |     |
+| QR     | CZ                  |
+| ------ | ------------------- |
+| dadaku | #velký (ne výškově) |
+| dadadu |                     |
+| dadapu |                     |
 #### Podstatná jména odvozená od slovesa:
 
 | QR    | CZ  |

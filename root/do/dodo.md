@@ -1,6 +1,6 @@
 ---
 větve:
-  -
+  - "[[dododo]]"
 ---
 #### Slovesa:
 
@@ -19,11 +19,11 @@ větve:
 | dodopa |     |
 #### Přídavná jména:
 
-| QR   | CZ  |
-| ---- | --- |
-| dodoku |     |
-| dododu |     |
-| dodopu |     |
+| QR     | CZ                    |
+| ------ | --------------------- |
+| dodoku | #malý (ne velikostně) |
+| dododu |                       |
+| dodopu |                       |
 #### Podstatná jména odvozená od slovesa:
 
 | QR    | CZ  |

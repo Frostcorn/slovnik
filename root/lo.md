@@ -1,6 +1,7 @@
 ---
 větve:
-  -
+  - "[[palo]]"
+  - "[[nilo]]"
 ---
 #### Slovesa:
 
