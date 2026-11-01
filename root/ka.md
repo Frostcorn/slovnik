@@ -4,37 +4,44 @@ větve:
 ---
 #### Slovesa:
 
-| QR   | CZ   |
-| ---- | ---- |
-| kork | moci |
-| kord | -    |
-| korp |      |
+| QR   | CZ    |
+| ---- | ----- |
+| kakr | #moci |
+| kadr | -     |
+| kapr |       |
 
 #### Podstatná jména:
 
-| QR   | CZ      |
-| ---- | ------- |
-| koka | moc     |
-| koda | možnost |
-| kopa |         |
+| QR   | CZ       |
+| ---- | -------- |
+| kaka | #moc     |
+| kada | #možnost |
+| kapa |          |
 #### Přídavná jména:
 
-| QR   | CZ    |
-| ---- | ----- |
-| koku | mocný |
-| kodu | možný |
-| kopu |       |
+| QR   | CZ     |
+| ---- | ------ |
+| kaku | #mocný |
+| kadu | #možný |
+| kapu |        |
 #### Podstatná jména odvozená od slovesa:
 
 | QR    | CZ  |
 | ----- | --- |
-| korka | -   |
-| korda | -   |
-| korpa |     |
+| kakra | -   |
+| kadra | -   |
+| kapra |     |
 #### Přídavná jména odvozená od slovesa:
 
-| QR    | CZ      |
-| ----- | ------- |
-| korku | mohoucí |
-| kordu | -       |
-| korpu |         |
+| QR    | CZ       |
+| ----- | -------- |
+| kakru | #mohoucí |
+| kadru | -        |
+| kapru |          |
+#### Příslovce:
+
+| QR   | CZ     |
+| ---- | ------ |
+| okak | #mocně |
+| okad | #možně |
+| okap |        |

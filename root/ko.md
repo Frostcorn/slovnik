@@ -4,37 +4,44 @@ větve:
 ---
 #### Slovesa:
 
-| QR   | CZ         |
-| ---- | ---------- |
-| kork | chtít      |
-| kord | přát       |
-| korp | potřebovat |
+| QR   | CZ          |
+| ---- | ----------- |
+| kokr | #chtít      |
+| kodr | #přát       |
+| kopr | #potřebovat |
 
 #### Podstatná jména:
 
-| QR   | CZ                 |
-| ---- | ------------------ |
-| koka | chtíč (nesexuálně) |
-| koda | přání/touha        |
-| kopa | potřeba            |
+| QR   | CZ                  |
+| ---- | ------------------- |
+| koka | #chtíč (nesexuálně) |
+| koda | #přání #touha       |
+| kopa | #potřeba            |
 #### Přídavná jména:
 
-| QR   | CZ       |
-| ---- | -------- |
-| koku | chtěný   |
-| kodu | přací    |
-| kopu | potřebný |
+| QR   | CZ        |
+| ---- | --------- |
+| koku | #chtěný   |
+| kodu | #přací    |
+| kopu | #potřebný |
 #### Podstatná jména odvozená od slovesa:
 
-| QR    | CZ          |
-| ----- | ----------- |
-| korka | chtění      |
-| korda | přaní       |
-| korpa | potřebování |
+| QR    | CZ           |
+| ----- | ------------ |
+| kokra | #chtění      |
+| kodra | #přaní       |
+| kopra | #potřebování |
 #### Přídavná jména odvozená od slovesa:
 
-| QR    | CZ          |
-| ----- | ----------- |
-| korku | chtějící    |
-| kordu | přející     |
-| korpu | potřebující |
+| QR    | CZ           |
+| ----- | ------------ |
+| kokru | #chtějící    |
+| kodru | #přející     |
+| kopru | #potřebující |
+#### Příslovce:
+
+| QR   | CZ            |
+| ---- | ------------- |
+| okok | #chtivě       |
+| okod | #přejícně     |
+| okop | #potřebovačně |

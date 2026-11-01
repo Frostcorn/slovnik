@@ -1,0 +1,47 @@
+---
+větve:
+  -
+---
+#### Slovesa:
+
+| QR   | CZ  |
+| ---- | --- |
+| lonokr | -   |
+| lonodr |     |
+| lonopr |     |
+
+#### Podstatná jména:
+
+| QR     | CZ          |
+| ------ | ----------- |
+| lonoka | #milenec    |
+| lonoda | #milenectví |
+| lonopa |             |
+#### Přídavná jména:
+
+| QR     | CZ         |
+| ------ | ---------- |
+| lonoku | #milenecký |
+| lonodu |            |
+| lonopu |            |
+#### Podstatná jména odvozená od slovesa:
+
+| QR    | CZ  |
+| ----- | --- |
+| lonokra |     |
+| lonodra |     |
+| lonopra |     |
+#### Přídavná jména odvozená od slovesa:
+
+| QR    | CZ  |
+| ----- | --- |
+| lonokru |     |
+| lonodru |     |
+| lonopru |     |
+#### Příslovce:
+
+| QR     | CZ         |
+| ------ | ---------- |
+| olonok | #milenecky |
+| olonod |            |
+| olonop |            |
